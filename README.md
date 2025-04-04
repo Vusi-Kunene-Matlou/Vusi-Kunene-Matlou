@@ -5,7 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Vusi Kunene Matlou</h1>
 <h3 align="center">A passionate Aspiring Cybersecurity & Fintech Security Professional | Blockchain Enthusiast.</h3>
-
+[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vusi-matlou/](www.linkedin.com/in/vusi-matlou)](www.linkedin.com/in/vusi-matlou)
+[![Gmail Badge](https://img.shields.io/badge/-matlouvusikunene544@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matlouvusikunene544@gmail.com)](mailto:matlouvusikunene544@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vusi-kunene-matlou&label=Profile%20views&color=0e75b6&style=flat" alt="vusi-kunene-matlou" /> </p>
 
 - 🔭 I’m currently working on **Penetration Testing Automation Framework**
