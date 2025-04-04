@@ -11,12 +11,9 @@
 
 - 💬 Ask me about **Computer Science Related Topics**
 
-- 📫 How to reach me :
-- matlouvusikunene544@gmail.com
-- https://www.linkedin.com/in/vusi-matlou-449690243
-- https://github.com/Vusi-Kunene-Matlou**
+- 📫 How to reach me **matlouvusikunene544@gmail.com https://www.linkedin.com/in/vusi-matlou-449690243 https://github.com/Vusi-Kunene-Matlou**
 
-- 📄 Know about my experiences [RESUME LINK- https://rb.gy/ujvkst]
+- 📄 Know about my experiences [RESUME LINK- https://rb.gy/ujvkst](RESUME LINK- https://rb.gy/ujvkst)
 
 - ⚡ Fun fact **I’m passionate about ethical hacking and love solving cybersecurity challenges!**
 
@@ -36,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vusi-kunene-matlou&show_icons=true&locale=en&layout=compact" alt="vusi-kunene-matlou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vusi-kunene-matlou&show_icons=true&locale=en" alt="vusi-kunene-matlou" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vusi-kunene-matlou&" alt="vusi-kunene-matlou" /></p>
