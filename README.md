@@ -1,3 +1,8 @@
+<!-- Matrix Animation Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vusi-Kunene-Matlou/Vusi-Kunene-Matlou/main/matrix.svg" alt="matrix animation" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vusi Kunene Matlou</h1>
 <h3 align="center">A passionate Aspiring Cybersecurity & Fintech Security Professional | Blockchain Enthusiast.</h3>
 
@@ -16,8 +21,7 @@
 - https://www.linkedin.com/in/vusi-matlou-449690243
 - https://github.com/Vusi-Kunene-Matlou
 
-- 📄 Know about my experiences [RESUME LINK- https://rb.gy/ujvkst](RESUME LINK- https://rb.gy/ujvkst)
-
+- 📄 Know about my experiences [RESUME LINK- https://rb.gy/ujvkst]
 - ⚡ Fun fact **I’m passionate about ethical hacking and love solving cybersecurity challenges!**
 
 ### Blogs posts
