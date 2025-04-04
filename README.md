@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🚀 Welcome to My Matrix
 
-<!--
-**Vusi-Kunene-Matlou/Vusi-Kunene-Matlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre align="center">
+<code>
+    <span style="color: green;">██████╗ ███████╗███████╗████████╗</span><br>
+    <span style="color: green;">██╔══██╗██╔════╝██╔════╝╚══██╔══╝</span><br>
+    <span style="color: green;">██████╔╝█████╗  █████╗     ██║</span><br>
+    <span style="color: green;">██╔══██╗██╔══╝  ██╔══╝     ██║</span><br>
+    <span style="color: green;">██████╔╝███████╗███████╗   ██║</span><br>
+    <span style="color: green;">╚═════╝ ╚══════╝╚══════╝   ╚═╝</span><br>
+</code>
+</pre>
 
-Here are some ideas to get you started:
+<details>
+  <summary>⚡ Click to View Matrix</summary>
+    <code>
+      <pre>
+        <span style="color: green;">MATRIX STYLE EFFECT COMING SOON...</span>
+      </pre>
+    </code>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
