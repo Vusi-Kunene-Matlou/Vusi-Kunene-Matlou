@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Vusi-Kunene-Matlou/Vusi-Kunene-Matlou/main/matrix.svg" alt="matrix animation" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vusi Kunene Matlou</h1>
+<h1 align="center">Hi, I'm Vusi Kunene Matlou</h1>
 <h3 align="center">A passionate Aspiring Cybersecurity & Fintech Security Professional | Blockchain Enthusiast.</h3>
 
 - 🔭 I’m currently working on **Penetration Testing Automation Framework**
