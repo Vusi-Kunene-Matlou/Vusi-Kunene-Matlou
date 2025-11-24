@@ -19,7 +19,7 @@
 - https://www.linkedin.com/in/vusi-matlou-449690243
 - https://github.com/Vusi-Kunene-Matlou
 
-- 📄 Know about my experiences [RESUME LINK- https://rb.gy/ujvkst]
+- 📄 Know about my experiences [RESUME LINK- [https://rb.gy/ujvkst](https://drive.google.com/file/d/18LR2s8JBHbAL7jph_6kQ8QeiCi1VO0RS/view?usp=sharing)]
 - ⚡ Fun fact **I’m passionate about ethical hacking and love solving cybersecurity challenges!**
 
 ### Blogs posts
