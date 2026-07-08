@@ -28,6 +28,20 @@ Computer Science graduate with hands-on experience across enterprise IT Operatio
 
 **🌍 UBUNTU Verse** — G20 VR tourism platform showcasing South Africa's rural destinations, with a content-monetization model for local youth participation in the digital economy. *Unity/Unreal, WebXR, Node.js, Firebase*
 
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/contribs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/contribs-light.svg">
+  <img alt="Isometric contribution activity chart" src="output/contribs-light.svg" width="100%">
+</picture>
+
+<sub>Auto-generated daily via GitHub Actions from live contribution data — see <code>scripts/generate_contribs.py</code>.</sub>
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vusi-matlou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>

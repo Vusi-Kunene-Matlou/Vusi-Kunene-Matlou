@@ -1,0 +1,42 @@
+name: Update Contribution Art
+
+on:
+  schedule:
+    # Runs daily at 03:00 UTC (~05:00 SAST)
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}   # allows manual "Run workflow" trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-art:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate contribution art
+        env:
+          GH_README_TOKEN: ${{ secrets.GH_README_TOKEN }}
+        run: |
+          python scripts/generate_contribs.py \
+            --username Vusi-Kunene-Matlou \
+            --out output
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/contribs-light.svg output/contribs-dark.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update contribution art [automated]"
+            git push
+          fi
