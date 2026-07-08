@@ -17,7 +17,7 @@ Computer Science graduate with hands-on experience across enterprise IT Operatio
   - matlouvusikunene544@gmail.com
   - [linkedin.com/in/vusi-matlou](https://www.linkedin.com/in/vusi-matlou/)
   - [github.com/Vusi-Kunene-Matlou](https://github.com/Vusi-Kunene-Matlou)
-- 📄 Full experience: [Resume](https://drive.google.com/file/d/18LR2s8JBHbAL7jph_6kQ8QeiCi1VO0RS/view?usp=sharing)
+- 📄 Full experience: [Resume](https://drive.google.com/file/d/1G3M1tU2R9wQPVoNQ35kYvxUxe1GgFQD2/view?usp=sharing)
 - ⚡ Fun fact: **I'm passionate about ethical hacking and enjoy solving cybersecurity challenges**
 
 ### Featured Projects
@@ -27,10 +27,6 @@ Computer Science graduate with hands-on experience across enterprise IT Operatio
 **🔐 [API Security Scanner](https://github.com/Vusi-Kunene-Matlou/API-SECURITY-SCANNER)** — Automated vulnerability scanner covering SQL Injection, XSS, CSRF, directory traversal, and auth bypass, with structured audit-ready reporting. *Python, RESTful APIs, Security Testing*
 
 **🌍 UBUNTU Verse** — G20 VR tourism platform showcasing South Africa's rural destinations, with a content-monetization model for local youth participation in the digital economy. *Unity/Unreal, WebXR, Node.js, Firebase*
-
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
